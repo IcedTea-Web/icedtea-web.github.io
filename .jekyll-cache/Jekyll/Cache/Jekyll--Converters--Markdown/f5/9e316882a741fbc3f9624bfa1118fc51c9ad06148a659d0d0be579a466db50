@@ -1,0 +1,27 @@
+I"w<h2 id="download">Download</h2>
+<p>To download the latest release of IcedTea-Web see <a href="./downloads">downloads</a>.</p>
+
+<h2 id="installation-instructions">Installation Instructions</h2>
+<p>See <a href="./installation">Installation Instructions</a>.</p>
+
+<h2 id="development-origin">Development origin</h2>
+<p>The project was formerly hosted as part of the <a href="https://icedtea.classpath.org">icedtea.classpath.org</a> project but moved to GitHub.</p>
+
+<p>The 1.7 and 1.8 release branches of IcedTeaWeb have been migrated to GitHub for fixing bugs in the previews releases.
+Next to this a new project structure has been established in the <code class="language-plaintext highlighter-rouge">master</code> branch.
+Here the project is being migrated to Maven and more usage of Java 8 APIs are being introduced.
+Based on this IcedTeaWeb can be transformed to a general WebStart / JNLP API that JDK and tool vendors can use to offer JNLP functionality.
+A good example is <a href="https://openwebstart.com/">OpenWebStart</a> that will be based on IcedTeaWeb.</p>
+
+<h2 id="first-timers-support">First Timers Support</h2>
+<p>We love open source. Based on this we develop IcedTeaWeb as an open source project.
+If you are new to open source development we have some specific issues for you.
+Just have a look at <a href="https://github.com/AdoptOpenJDK/IcedTea-Web/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22">all issues with the <code class="language-plaintext highlighter-rouge">good first issue</code> label</a>.
+This issues are reserved for people who never contributed to Open Source before.
+We know that the process of creating a pull request is the biggest barrier for new contributors.
+This issues are for you 💝 We use such issues for example to get involved at <a href="https://hacktoberfest.digitalocean.com">Hacktoberfest</a>.
+If you want to know more about open source development and contribution in general you should have a look at <a href="https://github.com/firstcontributions/first-contributions">this overview</a>.</p>
+
+<h2 id="license">License</h2>
+<p>The project is released as open source under the GPLv2 with exceptions.</p>
+:ET

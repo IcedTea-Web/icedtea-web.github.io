@@ -1,0 +1,16 @@
+I"¦<h2 id="installation-instructions-icedtea-web">Installation Instructions: IcedTea-Web</h2>
+
+<h3 id="windows">Windows</h3>
+<p>From MSI installer:</p>
+
+<ol>
+  <li>Double-click the .msi installer</li>
+  <li>Accept the License Agreement</li>
+  <li>Select installation folder</li>
+  <li>Allow the installer to complete</li>
+</ol>
+
+<p>From zip-archive: unzip the archive to your target system.</p>
+
+<p><a href="./">Back</a></p>
+:ET

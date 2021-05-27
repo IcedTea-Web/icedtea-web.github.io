@@ -1,0 +1,49 @@
+I"ß<h2 id="icedtea-web-187">icedtea-web-1.8.7</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Platform</th>
+      <th>Type</th>
+      <th>Download Link</th>
+      <th>Other Files</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Linux x64</td>
+      <td>zip</td>
+      <td><a href="https://github.com/AdoptOpenJDK/IcedTea-Web/releases/download/icedtea-web-1.8.7/icedtea-web-1.8.7.linux.bin.zip">icedtea-web-1.8.7.linux.bin.zip</a></td>
+      <td><a href="https://github.com/AdoptOpenJDK/IcedTea-Web/releases/download/icedtea-web-1.8.7/icedtea-web-1.8.7.linux.bin.zip.sha256.txt">sha256</a></td>
+    </tr>
+    <tr>
+      <td>macOS x64</td>
+      <td>zip</td>
+      <td><a href="https://github.com/AdoptOpenJDK/IcedTea-Web/releases/download/icedtea-web-1.8.7/icedtea-web-1.8.7.macos.bin.zip">icedtea-web-1.8.7.macos.bin.zip</a></td>
+      <td><a href="https://github.com/AdoptOpenJDK/IcedTea-Web/releases/download/icedtea-web-1.8.7/icedtea-web-1.8.7.macos.bin.zip.sha256.txt">sha256</a></td>
+    </tr>
+    <tr>
+      <td>Windows x64</td>
+      <td>zip</td>
+      <td><a href="https://github.com/AdoptOpenJDK/IcedTea-Web/releases/download/icedtea-web-1.8.7/icedtea-web-1.8.7.win.bin.zip">icedtea-web-1.8.7.win.bin.zip</a></td>
+      <td><a href="https://github.com/AdoptOpenJDK/IcedTea-Web/releases/download/icedtea-web-1.8.7/icedtea-web-1.8.7.win.bin.zip.sha256.txt">sha256</a></td>
+    </tr>
+    <tr>
+      <td>Windows x64</td>
+      <td>msi</td>
+      <td><a href="https://github.com/AdoptOpenJDK/IcedTea-Web/releases/download/icedtea-web-1.8.7/icedtea-web-1.8.7.msi">icedtea-web-1.8.7.msi</a></td>
+      <td><a href="https://github.com/AdoptOpenJDK/IcedTea-Web/releases/download/icedtea-web-1.8.7/icedtea-web-1.8.7.msi.sha256.txt">sha256</a></td>
+    </tr>
+    <tr>
+      <td>Portable</td>
+      <td>zip</td>
+      <td><a href="https://github.com/AdoptOpenJDK/IcedTea-Web/releases/download/icedtea-web-1.8.7/icedtea-web-1.8.7.portable.bin.zip">icedtea-web-1.8.7.portable.bin.zip</a></td>
+      <td><a href="https://github.com/AdoptOpenJDK/IcedTea-Web/releases/download/icedtea-web-1.8.7/icedtea-web-1.8.7.portable.bin.zip.sha256.txt">sha256</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><a href="./installation">Installation Instructions</a></p>
+
+<p><a href="./">Back</a></p>
+:ET

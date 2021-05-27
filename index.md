@@ -2,122 +2,29 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## Download
+To download the latest release of IcedTea-Web see [Downloads](./downloads).
 
-[Link to another page](./another-page.html).
+## Installation Instructions
+See [Installation Instructions](./installation).
 
-There should be whitespace between paragraphs.
+## Development origin
+The project was formerly hosted as part of the [icedtea.classpath.org](https://icedtea.classpath.org) project but moved to GitHub.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+The 1.7 and 1.8 release branches of IcedTeaWeb have been migrated to GitHub for fixing bugs in the previews releases.
+Next to this a new project structure has been established in the `master` branch.
+Here the project is being migrated to Maven and more usage of Java 8 APIs are being introduced.
+Based on this IcedTeaWeb can be transformed to a general WebStart / JNLP API that JDK and tool vendors can use to offer JNLP functionality.
+A good example is [OpenWebStart](https://openwebstart.com/) that will be based on IcedTeaWeb.
 
-# Header 1
+## First Timers Support
+We love open source. Based on this we develop IcedTeaWeb as an open source project.
+If you are new to open source development we have some specific issues for you.
+Just have a look at [all issues with the `good first issue` label](https://github.com/AdoptOpenJDK/IcedTea-Web/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22).
+This issues are reserved for people who never contributed to Open Source before.
+We know that the process of creating a pull request is the biggest barrier for new contributors.
+This issues are for you 💝 We use such issues for example to get involved at [Hacktoberfest](https://hacktoberfest.digitalocean.com).
+If you want to know more about open source development and contribution in general you should have a look at [this overview](https://github.com/firstcontributions/first-contributions).
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+## License
+The project is released as open source under the GPLv2 with exceptions.
