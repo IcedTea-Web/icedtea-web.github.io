@@ -1,5 +1,6 @@
 ---
 layout: default
+title: IcedTea-Web
 ---
 
 ## Download
